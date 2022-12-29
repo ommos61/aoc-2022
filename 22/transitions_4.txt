@@ -1,0 +1,19 @@
+; comment
+; ..1.
+; 234.
+; ..56
+; ....
+1 T 2 T R 2 Y
+1 L 3 T R 3 N
+1 R 6 R R 2 Y
+2 T 1 T R 2 Y
+2 L 6 B R 1 Y
+2 B 5 B R 2 Y
+3 T 1 L R 1 N
+3 B 5 L R 3 Y
+4 R 6 T R 1 Y
+5 L 3 B R 1 Y
+5 B 2 B R 2 Y
+6 T 4 R R 3 Y
+6 R 1 R R 2 Y
+6 B 2 L R 3 Y
